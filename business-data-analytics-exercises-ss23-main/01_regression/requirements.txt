@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+seaborn
+IPython
+ipykernel
+notebook
+category_encoders
