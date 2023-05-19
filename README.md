@@ -1,4 +1,4 @@
 ## Description
-This repository contains programming exercises from KIT
+This repository contains programming exercises from KIT.
 
-For more informations see respective folders
+For more informations see respective folders.
